@@ -17,3 +17,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" style="width-max: 100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="50" height="50" style="width-max: 100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" width="50" height="50" style="width-max: 100%;"></img>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DutraGames&show_icons=true&theme=tokyonight)](https://github.com/DutraGames/github-readme-stats)
