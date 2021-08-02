@@ -1,5 +1,7 @@
 ### Hi there!
 
+![GitHub followers](https://img.shields.io/github/followers/DutraGames?style=social)
+
 ## I'm Gabriel Dutra, a developer who always wants to learn more and more, on this journey in programming!
 
 * I live Brazil 🇧🇷 , São Paulo;
