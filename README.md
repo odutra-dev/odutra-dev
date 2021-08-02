@@ -2,12 +2,17 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/DutraGames?style=social)
 
-## I'm Gabriel Dutra, a developer who always wants to learn more and more, on this journey in programming!
+### I'm Gabriel Dutra, a developer who always wants to learn more and more, on this journey in programming!
 
 * I live Brazil 🇧🇷 , São Paulo;
 * web and mobile developer 📱;
 * I develop more in Javascript, as it is my Language of passion! ❤️
 
+## Meet me:
+
+<a href="https://www.youtube.com/lutriz" target="_blank">
+<img src="https://zeoserver.pb.gov.br/paraibasite/portalgovpb/imagens/iconfinder_youtube_317714copy.png/@@images/2ddcdce2-ebd6-44de-a246-853ea232182f.png" alt="youtube" width="40" height="40" style="width-max: 100%;"></img>
+</a>
 
 ## My Skills:
 
