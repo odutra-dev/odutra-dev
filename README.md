@@ -10,12 +10,6 @@
 * web and mobile developer 📱;
 * I develop more in Javascript, as it is my Language of passion! ❤️
 
-## Meet me:
-
-<a href="https://www.youtube.com/lutriz" target="_blank">
-<img src="https://zeoserver.pb.gov.br/paraibasite/portalgovpb/imagens/iconfinder_youtube_317714copy.png/@@images/2ddcdce2-ebd6-44de-a246-853ea232182f.png" alt="youtube" width="40" height="40" style="width-max: 100%;"></img>
-</a>
-
 ## My Skills:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="width-max: 100%;"></img>
