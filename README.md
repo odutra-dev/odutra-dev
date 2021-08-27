@@ -22,3 +22,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" width="50" height="50" style="width-max: 100%;"></img>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DutraGames&show_icons=true&theme=tokyonight)](https://github.com/DutraGames/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DutraGames&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
