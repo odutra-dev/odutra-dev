@@ -19,3 +19,5 @@
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DutraGames&show_icons=true&theme=tokyonight)](https://github.com/DutraGames/github-readme-stats)
