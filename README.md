@@ -2,6 +2,12 @@
 
 <hr></hr>
 
+## Social
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+
+</img>
+
 ### I'm Gabriel Dutra, a developer who always wants to learn more and more, on this journey in programming!
 
 * I live Brazil 🇧🇷 , São Paulo;
