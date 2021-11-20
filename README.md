@@ -1,8 +1,6 @@
-### Hi there! ✋
+![img](https://user-images.githubusercontent.com/69097449/142742141-80ad2224-e7a8-469e-a37b-494f4de7fc6b.png)
 
-![GitHub followers](https://img.shields.io/github/followers/DutraGames?logo=github&style=for-the-badge)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqG93tOVd2TBhkdOu_Ng1oQ?logo=youtube&style=for-the-badge)
-![Discord](https://img.shields.io/discord/805616272783835146?logo=discord&style=for-the-badge)
+<hr></hr>
 
 ### I'm Gabriel Dutra, a developer who always wants to learn more and more, on this journey in programming!
 
