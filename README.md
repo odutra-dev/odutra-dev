@@ -1,12 +1,12 @@
 ![img](https://user-images.githubusercontent.com/69097449/142742141-80ad2224-e7a8-469e-a37b-494f4de7fc6b.png)
 
-<hr></hr>
+<hr>
 
 ## Social
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
-
-</img>
+<a href="mailto:gabrieldutraamarante@gmail.com">
+  <img src="https://img.shields.io/badge/-gabrieldutraamarante@gmail.com-1A3953?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+</a>
 
 ### I'm Gabriel Dutra, a developer who always wants to learn more and more, on this journey in programming!
 
