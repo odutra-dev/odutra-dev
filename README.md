@@ -5,7 +5,10 @@
 ## Social
 
 <a href="mailto:gabrieldutraamarante@gmail.com">
-  <img src="https://img.shields.io/badge/-gabrieldutraamarante@gmail.com-1A3953?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  <img src="https://img.shields.io/badge/gabrieldutraamarante@gmail.com-1A3953?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+</a>
+<a href="https://www.youtube.com/lutriz">
+  <img src="https://img.shields.io/badge/Lutriz-1A3953?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
 </a>
 
 ### I'm Gabriel Dutra, a developer who always wants to learn more and more, on this journey in programming!
