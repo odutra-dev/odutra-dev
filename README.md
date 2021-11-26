@@ -32,5 +32,6 @@
 ![react-native](https://img.shields.io/badge/React_Native-1A3953?style=for-the-badge&logo=react&logoColor=white)
 ![bostrap](https://img.shields.io/badge/Bootstrap-1A3953?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-1A3953?style=for-the-badge&logo=styled-components&logoColor=white)
+![Construct](https://img.shields.io/badge/construct-1A3953?style=for-the-badge&logo=construct3&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DutraGames&show_icons=true&theme=tokyonight)](https://github.com/DutraGames/github-readme-stats)
