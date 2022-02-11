@@ -13,6 +13,9 @@
 <a href="https://itch.io/profile/diuta">
   <img src="https://img.shields.io/badge/Diuta-1A3953?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"/>
 </a>
+<a href="https://olutriz.com.br/">
+  <img src="https://img.shields.io/badge/O Lutriz-1A3953?style=for-the-badge&logo=wordpress&logoColor=white" alt="itch.io"/>
+</a>
 
 ### I'm Gabriel Dutra, a developer who always wants to learn more and more, on this journey in programming!
 
