@@ -39,11 +39,3 @@
 ![styled-components](https://img.shields.io/badge/styled--components-1A3953?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Construct](https://img.shields.io/badge/construct-1A3953?style=for-the-badge&logo=construct3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-1A3953?style=for-the-badge&logo=firebase&logoColor=white)
-
-<div>
-<a href="https://github.com/dutragames">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutragames&layout=compact&langs_count=7&theme=dracula" alt=""/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dutragames&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt=""/>
-</div>
-
-![Snake animation](https://github.com/dutragames/dutragames/blob/output/github-contribution-grid-snake.svg)
