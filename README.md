@@ -32,6 +32,8 @@
 ![nodejs](https://img.shields.io/badge/Node.js-1A3953?style=for-the-badge&logo=node.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-1A3953?style=for-the-badge&logo=electron&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-1A3953?style=for-the-badge&logo=typescript&logoColor=white)
+![nextjs](https://img.shields.io/badge/nextjs-1A3953?style=for-the-badge&logo=next.js&logoColor=white)
+![git](https://img.shields.io/badge/Git-1A3953?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-1A3953?style=for-the-badge&logo=github&logoColor=white)
 ![react](https://img.shields.io/badge/React-1A3953?style=for-the-badge&logo=react&logoColor=white)
 ![react-native](https://img.shields.io/badge/React_Native-1A3953?style=for-the-badge&logo=react&logoColor=white)
@@ -40,6 +42,11 @@
 ![styled-components](https://img.shields.io/badge/styled--components-1A3953?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Construct](https://img.shields.io/badge/construct-1A3953?style=for-the-badge&logo=construct3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-1A3953?style=for-the-badge&logo=firebase&logoColor=white)
+![figma](https://img.shields.io/badge/figma-1A3953?style=for-the-badge&logo=figma&logoColor=white)
+![vercel](https://img.shields.io/badge/vercel-1A3953?style=for-the-badge&logo=vercel&logoColor=white)
+![netlify](https://img.shields.io/badge/netlify-1A3953?style=for-the-badge&logo=netlify&logoColor=white)
+![markdown](https://img.shields.io/badge/markdown-1A3953?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutragames&layout=compact&langs_count=7&theme=dracula" alt=""/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dutragames&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt=""/>
