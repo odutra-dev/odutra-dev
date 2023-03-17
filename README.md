@@ -17,14 +17,13 @@
   <img src="https://img.shields.io/badge/Dutinha_dev-1A3953?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 
-
-### I'm Gabriel Dutra, a developer who always wants to learn more and more, on this journey in programming!
+### I'm Gabriel Dutra, a developer who always wants to learn more and more, on this journey in programming
 
 * I live Brazil 🇧🇷 , São Paulo;
 * web and mobile developer 📱;
 * I develop more in Javascript, as it is my Language of passion! ❤️
 
-## My Skills:
+## My Skills
 
 ![html5](https://img.shields.io/badge/HTML5-1A3953?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1A3953?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,6 +46,7 @@
 ![netlify](https://img.shields.io/badge/netlify-1A3953?style=for-the-badge&logo=netlify&logoColor=white)
 ![markdown](https://img.shields.io/badge/markdown-1A3953?style=for-the-badge&logo=markdown&logoColor=white)
 
+## **Github Stars**
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutragames&layout=compact&langs_count=7&theme=dracula" alt=""/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dutragames&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt=""/>
