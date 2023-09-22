@@ -45,6 +45,7 @@
 ![vercel](https://img.shields.io/badge/vercel-1A3953?style=for-the-badge&logo=vercel&logoColor=white)
 ![netlify](https://img.shields.io/badge/netlify-1A3953?style=for-the-badge&logo=netlify&logoColor=white)
 ![markdown](https://img.shields.io/badge/markdown-1A3953?style=for-the-badge&logo=markdown&logoColor=white)
+![markdown](https://img.shields.io/badge/tailwindcss-1A3953?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## **Github Stars**
 
