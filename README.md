@@ -4,6 +4,9 @@
 
 ## Social
 
+<a href="https://www.linkedin.com/in/gabriel-amarante/">
+  <img src="https://img.shields.io/badge/Gabriel Dutra-1A3953?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"/>
+</a>
 <a href="mailto:gabrieldutraamarante@gmail.com">
   <img src="https://img.shields.io/badge/gabrieldutraamarante@gmail.com-1A3953?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
@@ -46,6 +49,9 @@
 ![netlify](https://img.shields.io/badge/netlify-1A3953?style=for-the-badge&logo=netlify&logoColor=white)
 ![markdown](https://img.shields.io/badge/markdown-1A3953?style=for-the-badge&logo=markdown&logoColor=white)
 ![markdown](https://img.shields.io/badge/tailwindcss-1A3953?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![mongoDB](https://img.shields.io/badge/mongoDB-1A3953?style=for-the-badge&logo=mongodb&logoColor=white)
+![mySQL](https://img.shields.io/badge/mySQL-1A3953?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## **Github Stars**
 
