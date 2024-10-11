@@ -54,6 +54,10 @@
 
 
 ## **Github Stars**
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutraGames&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DutraGames&show_icons=true&theme=dracula" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutragames&layout=compact&langs_count=7&theme=dracula" alt=""/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dutragames&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt=""/>
