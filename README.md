@@ -20,11 +20,13 @@
   <img src="https://img.shields.io/badge/Dutinha_dev-1A3953?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 
-### I'm Gabriel Dutra, a developer who always wants to learn more and more, on this journey in programming
+### About Me
 
-* I live Brazil 🇧🇷 , São Paulo;
-* web and mobile developer 📱;
-* I develop more in Javascript, as it is my Language of passion! ❤️
+Hello! I'm Gabriel Dutra, a JavaScript enthusiast always looking to enhance my skills and contribute to innovative projects.
+
+I am currently studying Software Development at FATEC in Praia Grande. I am passionate about building solutions that make a difference and committed to staying updated with the latest technological trends.
+
+I am open to new opportunities and challenges that allow me to expand my knowledge and collaborate on impactful projects in the tech world.
 
 ## My Skills
 
