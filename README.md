@@ -4,21 +4,11 @@
 
 ## Social
 
-<a href="https://www.linkedin.com/in/gabriel-amarante/">
-  <img src="https://img.shields.io/badge/Gabriel Dutra-1A3953?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"/>
-</a>
-<a href="mailto:gabrieldutraamarante@gmail.com">
-  <img src="https://img.shields.io/badge/gabrieldutraamarante@gmail.com-1A3953?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-</a>
-<a href="https://www.youtube.com/@dutrinhadev">
-  <img src="https://img.shields.io/badge/Dutrinha Dev-1A3953?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
-</a>
-<a href="https://itch.io/profile/diuta">
-  <img src="https://img.shields.io/badge/Diuta-1A3953?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"/>
-</a>
-<a href="https://www.instagram.com/dutrinha_dev/">
-  <img src="https://img.shields.io/badge/Dutinha_dev-1A3953?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-</a>
+<a href="https://www.linkedin.com/in/gabriel-amarante/"><img src="https://img.shields.io/badge/Gabriel Dutra-1A3953?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"/></a>
+<a href="mailto:gabrieldutraamarante@gmail.com"><img src="https://img.shields.io/badge/gabrieldutraamarante@gmail.com-1A3953?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://www.youtube.com/@dutrinhadev"><img src="https://img.shields.io/badge/Dutrinha Dev-1A3953?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
+<a href="https://itch.io/profile/diuta"><img src="https://img.shields.io/badge/Diuta-1A3953?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"/></a>
+<a href="https://www.instagram.com/dutrinha_dev/"><img src="https://img.shields.io/badge/Dutinha_dev-1A3953?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 
 ### About Me
 
