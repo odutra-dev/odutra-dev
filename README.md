@@ -46,10 +46,5 @@ I am open to new opportunities and challenges that allow me to expand my knowled
 
 
 ## **Github Stars**
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutraGames&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DutraGames&show_icons=true&theme=dracula" />
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DutraGames&show_icons=true&theme=dracula" /></a>
 
