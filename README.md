@@ -46,5 +46,5 @@ I am open to new opportunities and challenges that allow me to expand my knowled
 
 
 ## **Github Stars**
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=odutra-dev&show_icons=true&theme=dracula" /></a>
+<a href="https://github.com/odutra-dev/GitBadgeStats"><img align="center" src="https://git-badge-stats.vercel.app/api?username=odutra-dev&theme=dracula" /></a>
 
